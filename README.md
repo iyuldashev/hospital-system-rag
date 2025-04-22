@@ -1,6 +1,9 @@
 # 🏥Hospital Sytem RAG Chatbot
 
 Welcome to the **Hospital Retrieval-Augmented Generation (RAG) Chatbot**! This innovative project combines a **Neo4j graph database**, **OpenAI's advanced LLMs**, and a **user-friendly Streamlit interface** to deliver intelligent, data-driven insights for healthcare queries. Whether you're exploring hospital operations, physician specialties, or patient visit trends, this chatbot provides contextually accurate responses with ease.
+
+<img src="https://github.com/user-attachments/assets/ffe2c11c-6907-42d2-b817-9ece2fa18432" alt="Project Architecture" width="700"/>
+
 ## 🌟 Why This Project Stands Out
 
 - **Graph-Powered Insights**: Leverages **Neo4j AuraDB** to model complex relationships between hospitals, physicians, patients, and more, enabling powerful and efficient queries.
